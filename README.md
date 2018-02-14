@@ -1,11 +1,13 @@
-> # Data Science Portfolio
-> 
-> Repository containing portfolio of data science projects completed by me for academic, self learning, and hobby purposes. Presented in the form of iPython Notebooks.
+ # Data Science Portfolio
+ 
+ Repository containing portfolio of data science projects completed by me for academic, self learning, and hobby purposes. Presented in the form of iPython Notebooks.
 
-> ## Content
-> 
+ ## Content
+ 
 
  -  **Dogs vs Cats : Distinguish images of dogs from cats**
+ 
+ 	[nbviewer](http://nbviewer.jupyter.org/github/oms48/Data-Science-Portfolio/blob/master/Dogs%20vs%20Cats%20-%20Distinguish%20images%20of%20dogs%20from%20cats/catOrDog.ipynb)
  
 	  In this notebook, I use convolutional neural networks in order to identify there is a cat or dog in an image. I build 2 model from stratch(with 3 convolutional layer - approximately % 90 accuracy - and with 5 convolutional layer - approximately % 94 accuracy -) and also use a pretrained model( InceptionV3 model with weights pre-trained on ImageNet - % 98 accuracy -).  The pictures that I use for training models taken from well-known Kaggle competition : Dogs vs. Cats. 
     
@@ -13,6 +15,8 @@
     
     *Tools : keras*
  -  **Detroit Blight Ticket Compliance**
+ 
+ 	[nbviewer](http://nbviewer.jupyter.org/github/oms48/Data-Science-Portfolio/blob/master/Detroit%20Blight%20Ticket%20Compliance/Assignment%204.ipynb)
  
     This is the assignment 4 of [Applied Machine Learning in Python ](https://www.coursera.org/learn/python-machine-learning) course that  is based on a data challenge from the Michigan Data Science Team (MDST). 
  
@@ -26,12 +30,16 @@
  
  -  **NBA Free Throws : Focus on LeBron James**
  
+ 	[nbviewer](http://nbviewer.jupyter.org/github/oms48/Data-Science-Portfolio/blob/master/NBA%20Free%20Throws%20-%20Focus%20on%20LeBron%20James/kingJames.ipynb)
+ 
     Analyzing and visualizing free-throw performance of LeBron James. How does LeBron's free-throw performance change over time, at Miami or Cleveland , at home or away, at regular season or playoffs and much more. 
  
     The data used in this notebook can be found [here](https://www.kaggle.com/sebastianmantey/nba-free-throws/data).  
  
     *Tools : R, tidyverse, ggplot2*
  -  **Titanic : Machine Learning From Disaster**
+ 
+ 	[nbviewer](http://nbviewer.jupyter.org/github/oms48/Data-Science-Portfolio/blob/master/Titanic%20-%20Machine%20Learning%20From%20Disaster/titanic.ipynb)
  
      Titanic: Machine Learning from Disaster is well-known Kaggle competition that is designed for beginners. In this competition, we have a data set of different information about passengers onboard the Titanic, and we see if we can use that information to predict whether those people survived or not. 
  
@@ -41,16 +49,28 @@
 
  -  **Applied Text Mining in Python**
  
+ 	[Assignment1](http://nbviewer.jupyter.org/github/oms48/Data-Science-Portfolio/blob/master/Applied%20Text%20Mining%20in%20Python/Assignment%201.ipynb)
+	[Assignment2](http://nbviewer.jupyter.org/github/oms48/Data-Science-Portfolio/blob/master/Applied%20Text%20Mining%20in%20Python/Assignment%202.ipynb)
+	[Assignment3](http://nbviewer.jupyter.org/github/oms48/Data-Science-Portfolio/blob/master/Applied%20Text%20Mining%20in%20Python/Assignment%203.ipynb)
+	[Assignment4](http://nbviewer.jupyter.org/github/oms48/Data-Science-Portfolio/blob/master/Applied%20Text%20Mining%20in%20Python/Assignment%204.ipynb)
+ 
     Assignment notebooks completed by me in the course [Applied Text Mining in Python](https://www.coursera.org/learn/python-text-mining).
  
     *Tools : NLTK, pandas, scikit-learn*
  -  **Applied Social Network Analysis in Python**
+ 
+ 	[Assignment1](http://nbviewer.jupyter.org/github/oms48/Data-Science-Portfolio/blob/master/Applied%20Social%20Network%20Analysis%20in%20Python/Assignment%201.ipynb)
+	[Assignment2](http://nbviewer.jupyter.org/github/oms48/Data-Science-Portfolio/blob/master/Applied%20Social%20Network%20Analysis%20in%20Python/Assignment%202.ipynb)
+	[Assignment3](http://nbviewer.jupyter.org/github/oms48/Data-Science-Portfolio/blob/master/Applied%20Social%20Network%20Analysis%20in%20Python/Assignment%203.ipynb)
+	[Assignment4](http://nbviewer.jupyter.org/github/oms48/Data-Science-Portfolio/blob/master/Applied%20Social%20Network%20Analysis%20in%20Python/Assignment%204.ipynb)
  
     Assignment notebooks completed by me in the course [Applied Social Network Analysis in Python](https://www.coursera.org/learn/python-social-network-analysis).
  
     *Tools : NetworkX, pandas, scikit-learn*
  
  -  **Swiss Style Tournament Planner**
+ 
+ 	[Github](https://github.com/oms48/Data-Science-Portfolio/tree/master/Swiss%20Style%20Tournament%20Planner)
  
 	 This is my final project for [Intro to Relational Databases Udacity Course](https://www.udacity.com/course/intro-to-relational-databases--ud197).
    
