@@ -7,7 +7,7 @@
 
  -  **Dogs vs Cats : Distinguish images of dogs from cats**
  
- 	[nbviewer](http://nbviewer.jupyter.org/github/oms48/Data-Science-Portfolio/blob/master/Dogs%20vs%20Cats%20-%20Distinguish%20images%20of%20dogs%20from%20cats/catOrDog.ipynb)
+ 	[nbviewer](http://nbviewer.jupyter.org/github/oms48/Data-Science-Portfolio/blob/master/Dogs%20vs%20Cats%20-%20Distinguish%20images%20of%20dogs%20from%20cats/dogOrCat.ipynb)
  
 	  In this notebook, I use convolutional neural networks in order to identify there is a cat or dog in an image. I build 2 model from stratch(with 3 convolutional layer - approximately % 90 accuracy - and with 5 convolutional layer - approximately % 94 accuracy -) and also use a pretrained model( InceptionV3 model with weights pre-trained on ImageNet - % 98 accuracy -).  The pictures that I use for training models taken from well-known Kaggle competition : Dogs vs. Cats. 
     
